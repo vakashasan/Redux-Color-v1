@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.WHITE {
+  background-color: white;
+}
+
+.RED {
+  background-color: rgb(245, 84, 84);
+}
+
+.BLUE {
+  background-color: rgb(120, 120, 250);
+}
+
+.GREEN {
+  background-color: greenyellow;
+}
+
+.btn {
+  padding: 10px;
+  margin: 10px;
+  width: 100px;
+}
